@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "joy-with-now",
+  "builds": [
+    { "src": "**/*.js", "use": "@now/node" }
+  ]
+}
